@@ -1,10 +1,14 @@
-#BodyTest {
-	text-align: center;
-}
-body div{
+Body div{
 	margin: 0 10% 0 10%;
-	background: linear-gradient( 270deg, blue, green 40%, yellow 70%, red);
+	background: rgb(200, 200, 200, 0.7);
+	text-align: center;
+	border-radius: 5px;
 }
 body {
-	background: linear-gradient( 90deg, blue, green 40%, yellow 70%, red);
+	background: url(assets/img/space.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+a {
+	text-decoration:none;
 }
