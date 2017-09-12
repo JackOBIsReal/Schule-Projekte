@@ -1,0 +1,10 @@
+#BodyTest {
+	text-align: center;
+}
+body div{
+	margin: 0 10% 0 10%;
+	background: linear-gradient( 270deg, blue, green 40%, yellow 70%, red);
+}
+body {
+	background: linear-gradient( 90deg, blue, green 40%, yellow 70%, red);
+}
